@@ -245,4 +245,4 @@ This repository serves as the official landing page for MeisterTask. The softwar
 **Get the most recent version of MeisterTask today!**
 
 ---
-**Last updated:** 2026-09-28 21:41:36 UTC
+**Last updated:** 2026-09-29 01:36:25 UTC
